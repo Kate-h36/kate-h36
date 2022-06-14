@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kisenkova.ekaterina1998@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://t.me/RjNL3H6 </h3>
 <p align="left">
 </p>
 
