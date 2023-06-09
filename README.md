@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C, C++, Java(Spring), Python (Flask), JS(React), Postgresql, Docker, AWS Cloud**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kate-py88](https://github.com/kate-py88)
+- 👨‍💻 All of my projects are available at [https://github.com/kate-py88](https://github.com/kate-h36)
 
 - 💬 Ask me about **Python,Go, Data Science, ML**
 
