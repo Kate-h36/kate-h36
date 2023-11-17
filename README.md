@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi , I'm Kate</h1>
-<h3 align="center"> Developer from Kyrgyzstan who had experiance in machine learning and data science, also had created some cool stuff using Python (check this out)</h3>
+<h3 align="center"> Developer from Kyrgyzstan who had experiance in Machine Learning and Data Science, also had created some cool stuff using Python (check this out)</h3>
 
 -  I’m currently learning **C, C++, Java(Spring), Python (Flask), Rust, Postgresql, Docker, AWS Cloud**
 
