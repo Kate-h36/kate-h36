@@ -4,7 +4,7 @@
 
 -  I’m currently learning **C, C++, Java(Spring), Python (Flask), Rust, Postgresql, Docker, AWS Cloud**
 
-- 👨‍💻 All of my projects are available at [my_projects](https://github.com/kate-h36/repositories)
+- 👨‍💻 All of my projects are available at [my_projects](https://github.com/Kate-h36?tab=repositories)
 
 - 💬 Ask me about **Python, Data Science, ML**
 
