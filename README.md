@@ -2,13 +2,11 @@
 <h1 align="center">Hi 👋, I'm Kate</h1>
 <h3 align="center">A developer from Kyrgyzstan who had experiance in machine learning and data science, also had created some cool stuff using Python and Go (check this out)</h3>
 
-- 🔭 I’m currently working on [Instagram clone](https://github.com/Algerdi/instagram)
+- 🌱 I’m currently learning **C, C++, Java(Spring), Python (Flask), Rust, Postgresql, Docker, AWS Cloud**
 
-- 🌱 I’m currently learning **C, C++, Java(Spring), Python (Flask), JS(React), Postgresql, Docker, AWS Cloud**
+- 👨‍💻 All of my projects are available at [my_projects](https://github.com/kate-h36)
 
-- 👨‍💻 All of my projects are available at [my_project](https://github.com/kate-h36)
-
-- 💬 Ask me about **Python,Go, Data Science, ML**
+- 💬 Ask me about **Python, Go, Data Science, ML**
 
 - 📫 How to reach me **kisenkova.ekaterina1998@gmail.com**
 
